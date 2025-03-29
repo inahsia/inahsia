@@ -14,22 +14,6 @@
 
 ## ⚡ Tech Stack  
 
-![Python](<img src="https://your_banner_url" alt="Banner" width="100%">
-
-# Hi, I'm [Your Name] 👋  
-🚀 AI/ML Enthusiast | 🛠️ Software Developer | 🎯 Problem Solver  
-
-## 🔥 About Me  
-- 🔭 Working on **AI-powered Legal Assistant, Proctoring System & Deepfake Detection**  
-- 📚 Preparing for placements  
-- 🌱 Learning React & Advanced ML  
-- 💬 Ask me about Python, AI, and ML  
-- ⚡ Fun fact: I love exploring new AI applications  
-
----
-
-## ⚡ Tech Stack  
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=pytorch)
