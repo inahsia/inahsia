@@ -30,7 +30,7 @@
 
 ## ⚡ Tech Stack  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python]
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=pytorch)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-7025A0?style=flat&logo=tensorflow)
