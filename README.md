@@ -1,6 +1,6 @@
 <img src="1708858467341.jpg" alt="Banner" width="100%">
 
-# Hi, I'm [Aishani Singh] 👋  
+# Hi, I'm Aishani Singh 👋  
  AI/ML Enthusiast |  Software Developer |  Problem Solver  
 
 ## 🔥 About Me  
