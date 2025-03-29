@@ -1,4 +1,4 @@
-<img src="https://your_banner_url" alt="Banner" width="100%">
+<img src="1708858467341.jpg" alt="Banner" width="100%">
 
 # Hi, I'm [Aishani Singh] 👋  
  AI/ML Enthusiast |  Software Developer |  Problem Solver  
