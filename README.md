@@ -29,7 +29,7 @@
 📝 **Description**: Detects deepfake media using AI-based audio-visual analysis.  
 
 ### 🎓 AI-Powered Proctoring System  
-🔗 [GitHub Repo](your_repo_link)  
+🔗 [GitHub Repo](https://github.com/inahsia/Smart-Proctoring-System.git)  
 📝 **Description**: Ensures fair online exams by detecting face presence, multiple people, and suspicious movements.  
 
 ---
