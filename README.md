@@ -25,7 +25,7 @@
 ## 🏆 Featured Projects  
 
 ### 🎭 Deepfake Detection (Audio & Video)  
-🔗 [GitHub Repo](your_repo_link)  
+🔗 [GitHub Repo](https://github.com/inahsia/Deepfake-Detection-Audio-Video-.git)  
 📝 **Description**: Detects deepfake media using AI-based audio-visual analysis.  
 
 ### 🎓 AI-Powered Proctoring System  
