@@ -1,7 +1,7 @@
 <img src="1708858467341.jpg" alt="Banner" width="100%">
 
 # Hi, I'm Aishani Singh 👋  
-AI/ML Enthusiast | Software Engineer | Android & React Native Developer | Problem Solver  
+AI/ML Enthusiast | Software Engineer | Android & React Native Developer | Problem Solver  | Mern Stack
 
 ## 🔥 About Me  
 - 🔭 Student at Amity University Punjab  
