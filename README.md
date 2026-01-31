@@ -1,3 +1,4 @@
+<img src="1708858467341.jpg" alt="Banner" width="100%">
 # Hi, I'm Aishani Singh
 
 Web Development Trainee | AI Specialization | Software Engineering Student
